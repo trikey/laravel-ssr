@@ -18,3 +18,6 @@ v8 engine:
     
 ## Description
 
+This template shows basic usage of server side rendering
+
+SSR pros and cons: https://ssr.vuejs.org/#what-is-server-side-rendering-ssr
